@@ -3,4 +3,4 @@ During my undergrad, I implemented a music recommendation system based on music 
 
 reference:  Hu, X. (2010). Improving music mood classification using lyrics, audio and social tags (Doctoral dissertation, University of Arizona).
 
-## Code will coming soon, keep tuned!
+## Code will come soon, stay tuned!
